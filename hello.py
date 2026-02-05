@@ -2,7 +2,7 @@
 # hello.py - simple Hello World
 def main():
     print("Hello, world!")
-    print("Adios desde la UVEG!")
+    print("Adios Reto 5!")
 
 if __name__ == "__main__":
     main()
